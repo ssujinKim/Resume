@@ -2,4 +2,4 @@
 ---
 ![이력서사진](증명사진_2022.jpg)
 
-<img src*증명사진_2022.jpg height*150 width*150>
+<img src=증명사진_2022.jpg height=150 widht=150>
