@@ -27,3 +27,7 @@
 |C프로그래밍|C 언어 개요|3|
 |자바 프로그래밍|자바 개요|3|
 |소프트웨어세미나1|최신 소프트웨어 트렌드|1|
+
+github address: [ssujinKim][github]
+
+[github]: https://github.com/ssujinKim
